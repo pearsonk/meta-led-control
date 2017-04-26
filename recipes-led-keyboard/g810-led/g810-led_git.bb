@@ -1,6 +1,6 @@
 DESCRIPTION = "g810-led recipe for driving applications g810-led"
 
-include g810-led-core.inc
+require g810-led-core.inc
 
 S = "${WORKDIR}/git"
 
