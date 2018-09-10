@@ -5,3 +5,5 @@ SRC_URI = "git://github.com/MatMoul/g810-led.git"
 
 PV = "0.2.7+git${SRCPV}"
 SRCREV = "1b480ae4c2150693118c2f66991d2f627f5aeb14"
+
+DEPENDS += "hidapi"
