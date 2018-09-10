@@ -1,4 +1,4 @@
-LICENSE = "Unknown & GPLv3"
+LICENSE = "CC-BY-SA-3.0 & GPLv3"
 LIC_FILES_CHKSUM = "file://LICENSE.txt;md5=4d831d7789a243ed364321642e0dbb54 \
                     file://hidapi/LICENSE-gpl3.txt;md5=d32239bcb673463ab874e80d47fae504 \
                     file://hidapi/LICENSE-bsd.txt;md5=b5fa085ce0926bb50d0621620a82361f \
