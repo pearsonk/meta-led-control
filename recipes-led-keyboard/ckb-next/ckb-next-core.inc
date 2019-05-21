@@ -3,8 +3,8 @@ LIC_FILES_CHKSUM = "file://LICENSE;md5=8264535c0c4e9c6c335635c4026a8022"
 
 SRC_URI = "git://github.com/ckb-next/ckb-next.git"
 
-PV = "0.3.2+git${SRCPV}"
-SRCREV = "78b6557dac4a2828c2dda46185fae44ee9e075ea"
+PV = "0.4.0+git${SRCPV}"
+SRCREV = "d6a5c4f3c630df2333800ce0d293fe01d6b7461a"
 
 S = "${WORKDIR}/git"
 B = "${WORKDIR}/build"
