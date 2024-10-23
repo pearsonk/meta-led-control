@@ -1,7 +1,7 @@
 LICENSE = "GPLv3"
 LIC_FILES_CHKSUM = "file://LICENSE;md5=d4333f07cbfa8fe036e90820f556b2ad"
 
-SRC_URI = "git://github.com/keyleds/keyleds.git \
+SRC_URI = "https://github.com/keyleds/keyleds.git \
 "
 
 PV = "1.1.0+git${SRCPV}"

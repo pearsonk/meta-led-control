@@ -5,7 +5,7 @@ LIC_FILES_CHKSUM = "file://LICENSE.txt;md5=4d831d7789a243ed364321642e0dbb54 \
                     file://hidapi/LICENSE-orig.txt;md5=e0ea014f523f64f0adb13409055ee59e \
                     file://hidapi/LICENSE.txt;md5=7c3949a631240cb6c31c50f3eb696077"
 
-SRC_URI = "git://github.com/todbot/blink1-tool.git"
+SRC_URI = "https://github.com/todbot/blink1-tool.git"
 
 SRCREV = "7c822b4fc2ac6f761309c9f22c57eee05a5de0ea"
 
